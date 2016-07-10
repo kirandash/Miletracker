@@ -11,3 +11,7 @@ ul {
 .controls {
 	float: right;
 }
+
+#stats p {
+	color: red;
+}
